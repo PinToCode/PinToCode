@@ -1,16 +1,15 @@
 # 👨‍💻 Jerit Jose
 
 Hi there! 👋  
-Embedded Systems & IoT enthusiast focused on building **real-world hardware–software solutions** using microcontrollers, sensors, and C/C++ programming 🚀.  
-Enjoys working with Arduino, ESP32/ESP8266, IoT platforms, and secure embedded systems.
+Interested in building real-world projects using microcontrollers, sensors, and C/C++.
+Works with Arduino, ESP32/ESP8266, and IoT platforms.
 
 ---
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:yourmail@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://jerit-jose-7991ba274.com)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:jeritjose17@gmail.com)
 
 ---
 
@@ -37,28 +36,12 @@ Enjoys working with Arduino, ESP32/ESP8266, IoT platforms, and secure embedded s
 
 ---
 
-## 🛠 Projects
-
-- 🔐 Secure Access Control Systems  
-- 🔥 Fire & Smoke Detection with Cloud Monitoring  
-- ⚡ Energy Monitoring & Management Systems  
-- 🎛 Sensor-based Embedded & IoT Nodes  
-- 🎙 Voice-controlled Embedded Systems  
-
----
-
 ## 📘 Currently Exploring
 
-- Embedded Security & Cryptography  
+- Real-time Embedded System Development
 - Cyber-Physical Systems (CPS)  
 - Real-time IoT Data Visualization  
 - Advanced ESP32 Hardware Integration  
-
----
-
-## 📈 GitHub Stats
-
-![Jerit's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
 
 ---
 
