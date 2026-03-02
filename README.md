@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Jerit Jose 👋
 
-<!--
-**PinToCode/PinToCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Microcontroller enthusiast focused on building real-world projects using Arduino, ESP32, C programming, and sensor integration.
 
-Here are some ideas to get you started:
+## Skills
+- Embedded Systems
+- C / C++
+- Arduino
+- ESP32 / ESP8266
+- Sensor Interfacing
+- IoT Basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Smart Access Control System
+- IoT-based Monitoring Systems
+- Sensor-based Embedded Projects
+
+## Tools
+- Arduino IDE
+- PlatformIO
+- GitHub
+- Proteus (Basic)
+
+## Currently Learning
+- Advanced Embedded Systems
+- IoT Security
+- Real-time Data Handling
