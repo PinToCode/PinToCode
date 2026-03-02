@@ -8,7 +8,7 @@ Works with Arduino, ESP32/ESP8266, and IoT platforms.
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://jerit-jose-7991ba274.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jerit-jose-7991ba274)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:jeritjose17@gmail.com)
 
 ---
